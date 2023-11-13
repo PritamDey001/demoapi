@@ -1,0 +1,2177 @@
+[
+    {
+      "question": "In which year did the Battle of Plassey take place?",
+      "one": "1757",
+      "two": "1857",
+      "third": "1657",
+      "fourth": "1957",
+      "right": "1757"
+    },
+    {
+      "question": "Who was the first President of India?",
+      "one": "Rajendra Prasad",
+      "two": "Jawaharlal Nehru",
+      "third": "Sardar Vallabhbhai Patel",
+      "fourth": "Lal Bahadur Shastri",
+      "right": "Rajendra Prasad"
+    },
+    {
+      "question": "When was the Quit India Movement launched?",
+      "one": "1942",
+      "two": "1939",
+      "third": "1947",
+      "fourth": "1950",
+      "right": "1942"
+    },
+    {
+      "question": "Who is known as the 'Father of the Indian Constitution'?",
+      "one": "B.R. Ambedkar",
+      "two": "Mahatma Gandhi",
+      "third": "Jawaharlal Nehru",
+      "fourth": "Rajendra Prasad",
+      "right": "B.R. Ambedkar"
+    },
+    {
+      "question": "When was the Indian National Congress founded?",
+      "one": "1885",
+      "two": "1905",
+      "third": "1920",
+      "fourth": "1942",
+      "right": "1885"
+    },
+    {
+      "question": "Who was the first Prime Minister of India?",
+      "one": "Jawaharlal Nehru",
+      "two": "Indira Gandhi",
+      "third": "Lal Bahadur Shastri",
+      "fourth": "Rajendra Prasad",
+      "right": "Jawaharlal Nehru"
+    },
+    {
+      "question": "When did India gain independence from British rule?",
+      "one": "1947",
+      "two": "1857",
+      "third": "1757",
+      "fourth": "1942",
+      "right": "1947"
+    },
+    {
+      "question": "Who is known as the 'Iron Man of India'?",
+      "one": "Sardar Vallabhbhai Patel",
+      "two": "Jawaharlal Nehru",
+      "third": "Mahatma Gandhi",
+      "fourth": "Rajendra Prasad",
+      "right": "Sardar Vallabhbhai Patel"
+    },
+    {
+      "question": "When was the Indian National Army (Azad Hind Fauj) formed?",
+      "one": "1942",
+      "two": "1857",
+      "third": "1920",
+      "fourth": "1947",
+      "right": "1942"
+    },
+    {
+      "question": "Who is known as the 'Nightingle of India'?",
+      "one": "Sarojini Naidu",
+      "two": "Indira Gandhi",
+      "third": "Rani Lakshmibai",
+      "fourth": "Kalpana Chawla",
+      "right": "Sarojini Naidu"
+    },
+    {
+      "question": "When was the Jallianwala Bagh massacre?",
+      "one": "1919",
+      "two": "1905",
+      "third": "1857",
+      "fourth": "1947",
+      "right": "1919"
+    },
+    {
+      "question": "Who is known as the 'Frontier Gandhi'?",
+      "one": "Khan Abdul Ghaffar Khan",
+      "two": "Jawaharlal Nehru",
+      "third": "Mahatma Gandhi",
+      "fourth": "Rajendra Prasad",
+      "right": "Khan Abdul Ghaffar Khan"
+    },
+    {
+      "question": "When was the Non-Cooperation Movement launched?",
+      "one": "1920",
+      "two": "1919",
+      "third": "1930",
+      "fourth": "1942",
+      "right": "1920"
+    },
+    {
+      "question": "Who is known as the 'Bard of Bengal'?",
+      "one": "Rabindranath Tagore",
+      "two": "Sarojini Naidu",
+      "third": "Bankim Chandra Chattopadhyay",
+      "fourth": "Kazi Nazrul Islam",
+      "right": "Rabindranath Tagore"
+    },
+    {
+      "question": "When was the Partition of Bengal annulled?",
+      "one": "1911",
+      "two": "1905",
+      "third": "1947",
+      "fourth": "1950",
+      "right": "1911"
+    },
+    {
+      "question": "Who is known as the 'Grand Old Man of India'?",
+      "one": "Dadabhai Naoroji",
+      "two": "Jawaharlal Nehru",
+      "third": "B.R. Ambedkar",
+      "fourth": "Rajendra Prasad",
+      "right": "Dadabhai Naoroji"
+    },
+    {
+      "question": "When was the Simon Commission formed?",
+      "one": "1927",
+      "two": "1919",
+      "third": "1930",
+      "fourth": "1942",
+      "right": "1927"
+    },
+    {
+      "question": "Who is known as the 'Lion of Punjab'?",
+      "one": "Lala Lajpat Rai",
+      "two": "Jawaharlal Nehru",
+      "third": "Mahatma Gandhi",
+      "fourth": "Rajendra Prasad",
+      "right": "Lala Lajpat Rai"
+    },
+    {
+      "question": "When was the Indian National Army (Azad Hind Fauj) disbanded?",
+      "one": "1945",
+      "two": "1857",
+      "third": "1920",
+      "fourth": "1947",
+      "right": "1945"
+    },
+    {
+      "question": "Who is known as the 'Nightingale of India'?",
+      "one": "Sarojini Naidu",
+      "two": "Indira Gandhi",
+      "third": "Rani Lakshmibai",
+      "fourth": "Kalpana Chawla",
+      "right": "Sarojini Naidu"
+    },
+    {
+      "question": "When was the Chauri Chaura incident?",
+      "one": "1922",
+      "two": "1919",
+      "third": "1930",
+      "fourth": "1942",
+      "right": "1922"
+    },
+    {
+      "question": "Who is known as the 'Frontier Gandhi'?",
+      "one": "Khan Abdul Ghaffar Khan",
+      "two": "Jawaharlal Nehru",
+      "third": "Mahatma Gandhi",
+      "fourth": "Rajendra Prasad",
+      "right": "Khan Abdul Ghaffar Khan"
+    },
+    {
+      "question": "When was the Civil Disobedience Movement launched?",
+      "one": "1930",
+      "two": "1919",
+      "third": "1920",
+      "fourth": "1942",
+      "right": "1930"
+    },
+    {
+      "question": "Who is known as the 'Bard of Bengal'?",
+      "one": "Rabindranath Tagore",
+      "two": "Sarojini Naidu",
+      "third": "Bankim Chandra Chattopadhyay",
+      "fourth": "Kazi Nazrul Islam",
+      "right": "Rabindranath Tagore"
+    },
+    {
+      "question": "When was the Partition of Bengal announced?",
+      "one": "1905",
+      "two": "1911",
+      "third": "1947",
+      "fourth": "1950",
+      "right": "1905"
+    },
+    {
+      "question": "Who is known as the 'Grand Old Man of India'?",
+      "one": "Dadabhai Naoroji",
+      "two": "Jawaharlal Nehru",
+      "third": "B.R. Ambedkar",
+      "fourth": "Rajendra Prasad",
+      "right": "Dadabhai Naoroji"
+    },
+    {
+      "question": "When was the Dandi March started?",
+      "one": "1930",
+      "two": "1919",
+      "third": "1920",
+      "fourth": "1942",
+      "right": "1930"
+    },
+    {
+      "question": "Who is known as the 'Lion of Punjab'?",
+      "one": "Lala Lajpat Rai",
+      "two": "Jawaharlal Nehru",
+      "third": "Mahatma Gandhi",
+      "fourth": "Rajendra Prasad",
+      "right": "Lala Lajpat Rai"
+    },
+    {
+      "question": "When was the Indian National Army (Azad Hind Fauj) revived?",
+      "one": "1942",
+      "two": "1857",
+      "third": "1920",
+      "fourth": "1947",
+      "right": "1942"
+    },
+    {
+      "question": "Who is known as the 'Nightingale of India'?",
+      "one": "Sarojini Naidu",
+      "two": "Indira Gandhi",
+      "third": "Rani Lakshmibai",
+      "fourth": "Kalpana Chawla",
+      "right": "Sarojini Naidu"
+    },
+    {
+      "question": "When was the Bardoli Satyagraha launched?",
+      "one": "1928",
+      "two": "1919",
+      "third": "1930",
+      "fourth": "1942",
+      "right": "1928"
+    },
+    {
+      "question": "Who is known as the 'Frontier Gandhi'?",
+      "one": "Khan Abdul Ghaffar Khan",
+      "two": "Jawaharlal Nehru",
+      "third": "Mahatma Gandhi",
+      "fourth": "Rajendra Prasad",
+      "right": "Khan Abdul Ghaffar Khan"
+    },
+    {
+      "question": "When was the Round Table Conferences held?",
+      "one": "1930-1932",
+      "two": "1919-1922",
+      "third": "1927-1930",
+      "fourth": "1942-1946",
+      "right": "1930-1932"
+    },
+    {
+      "question": "Who is known as the 'Bard of Bengal'?",
+      "one": "Rabindranath Tagore",
+      "two": "Sarojini Naidu",
+      "third": "Bankim Chandra Chattopadhyay",
+      "fourth": "Kazi Nazrul Islam",
+      "right": "Rabindranath Tagore"
+    },
+    {
+      "question": "When was the Swadeshi Movement launched?",
+      "one": "1905",
+      "two": "1911",
+      "third": "1920",
+      "fourth": "1942",
+      "right": "1905"
+    },
+    {
+      "question": "Who is known as the 'Grand Old Man of India'?",
+      "one": "Dadabhai Naoroji",
+      "two": "Jawaharlal Nehru",
+      "third": "B.R. Ambedkar",
+      "fourth": "Rajendra Prasad",
+      "right": "Dadabhai Naoroji"
+    },
+    {
+      "question": "When was the Salt Satyagraha started?",
+      "one": "1930",
+      "two": "1919",
+      "third": "1920",
+      "fourth": "1942",
+      "right": "1930"
+    },
+    {
+      "question": "Who is known as the 'Lion of Punjab'?",
+      "one": "Lala Lajpat Rai",
+      "two": "Jawaharlal Nehru",
+      "third": "Mahatma Gandhi",
+      "fourth": "Rajendra Prasad",
+      "right": "Lala Lajpat Rai"
+    },
+    {
+      "question": "When was the Indian National Army (Azad Hind Fauj) formed?",
+      "one": "1942",
+      "two": "1857",
+      "third": "1920",
+      "fourth": "1947",
+      "right": "1942"
+    },
+    {
+      "question": "Who is known as the 'Nightingale of India'?",
+      "one": "Sarojini Naidu",
+      "two": "Indira Gandhi",
+      "third": "Rani Lakshmibai",
+      "fourth": "Kalpana Chawla",
+      "right": "Sarojini Naidu"
+    },
+    {
+        "question": "Which Mughal emperor built the Red Fort in Delhi?",
+        "one": "Akbar",
+        "two": "Shah Jahan",
+        "third": "Aurangzeb",
+        "fourth": "Jahangir",
+        "right": "Shah Jahan"
+      },
+      {
+        "question": "Who was the first President of India?",
+        "one": "Jawaharlal Nehru",
+        "two": "Rajendra Prasad",
+        "third": "Sardar Vallabhbhai Patel",
+        "fourth": "Dr. B.R. Ambedkar",
+        "right": "Rajendra Prasad"
+      },
+      {
+        "question": "In which year did India gain independence from British rule?",
+        "one": "1945",
+        "two": "1947",
+        "third": "1950",
+        "fourth": "1962",
+        "right": "1947"
+      },
+      {
+        "question": "Who was the first Prime Minister of India?",
+        "one": "Jawaharlal Nehru",
+        "two": "Indira Gandhi",
+        "third": "Lal Bahadur Shastri",
+        "fourth": "Rajiv Gandhi",
+        "right": "Jawaharlal Nehru"
+      },
+      {
+        "question": "Who is known as the 'Father of the Nation' in India?",
+        "one": "Mahatma Gandhi",
+        "two": "Jawaharlal Nehru",
+        "third": "Sardar Vallabhbhai Patel",
+        "fourth": "Subhas Chandra Bose",
+        "right": "Mahatma Gandhi"
+      },
+      {
+        "question": "Which city is known as the 'Pink City' of India?",
+        "one": "Jaipur",
+        "two": "Udaipur",
+        "third": "Jodhpur",
+        "fourth": "Bikaner",
+        "right": "Jaipur"
+      },
+      {
+        "question": "Who was the founder of the Maurya Empire in ancient India?",
+        "one": "Chandragupta Maurya",
+        "two": "Ashoka the Great",
+        "third": "Samudragupta",
+        "fourth": "Bindusara",
+        "right": "Chandragupta Maurya"
+      },
+      {
+        "question": "Who was the first woman President of the Indian National Congress?",
+        "one": "Indira Gandhi",
+        "two": "Sarojini Naidu",
+        "third": "Sucheta Kripalani",
+        "fourth": "Vijaya Lakshmi Pandit",
+        "right": "Sarojini Naidu"
+      },
+      {
+        "question": "Which ancient Indian mathematician is known for the invention of the decimal system?",
+        "one": "Aryabhata",
+        "two": "Brahmagupta",
+        "third": "Srinivasa Ramanujan",
+        "fourth": "Bhaskara II",
+        "right": "Aryabhata"
+      },
+      {
+        "question": "Who was the last Viceroy of India?",
+        "one": "Lord Mountbatten",
+        "two": "Lord Canning",
+        "third": "Lord Curzon",
+        "fourth": "Lord Dalhousie",
+        "right": "Lord Mountbatten"
+      },
+      {
+        "question": "Who was the first Indian to win a Nobel Prize?",
+        "one": "Rabindranath Tagore",
+        "two": "C.V. Raman",
+        "third": "Hargobind Khorana",
+        "fourth": "Mother Teresa",
+        "right": "Rabindranath Tagore"
+      },
+      {
+        "question": "Which Indian state is known as the 'Land of the Rising Sun'?",
+        "one": "Arunachal Pradesh",
+        "two": "Manipur",
+        "third": "Mizoram",
+        "fourth": "Nagaland",
+        "right": "Arunachal Pradesh"
+      },
+      {
+        "question": "Who is the current Prime Minister of India?",
+        "one": "Narendra Modi",
+        "two": "Rahul Gandhi",
+        "third": "Amit Shah",
+        "fourth": "Manmohan Singh",
+        "right": "Narendra Modi"
+      },
+      {
+        "question": "Which Indian city is famous for the 'Golden Temple'?",
+        "one": "Amritsar",
+        "two": "Varanasi",
+        "third": "Haridwar",
+        "fourth": "Mathura",
+        "right": "Amritsar"
+      },
+      {
+        "question": "Who was the first Indian woman to win an Olympic medal?",
+        "one": "P.T. Usha",
+        "two": "Saina Nehwal",
+        "third": "Karnam Malleshwari",
+        "fourth": "Mary Kom",
+        "right": "Karnam Malleshwari"
+      },
+      {
+        "question": "Which river is known as the 'Sorrow of Bihar' due to frequent floods?",
+        "one": "Ganga",
+        "two": "Yamuna",
+        "third": "Brahmaputra",
+        "fourth": "Kosi",
+        "right": "Kosi"
+      },
+      {
+        "question": "Who is known as the 'Iron Man of India'?",
+        "one": "Sardar Vallabhbhai Patel",
+        "two": "Bhagat Singh",
+        "third": "Lal Bahadur Shastri",
+        "fourth": "Subhas Chandra Bose",
+        "right": "Sardar Vallabhbhai Patel"
+      },
+      {
+        "question": "Which Indian state is famous for its backwaters?",
+        "one": "Kerala",
+        "two": "Tamil Nadu",
+        "third": "Karnataka",
+        "fourth": "Andhra Pradesh",
+        "right": "Kerala"
+      },
+      {
+        "question": "Who composed the Indian national anthem, 'Jana Gana Mana'?",
+        "one": "Rabindranath Tagore",
+        "two": "Bankim Chandra Chattopadhyay",
+        "third": "Sarojini Naidu",
+        "fourth": "Subramanya Bharathi",
+        "right": "Rabindranath Tagore"
+      },
+      {
+        "question": "Which Indian state is known as the 'Land of the Gods'?",
+        "one": "Uttarakhand",
+        "two": "Himachal Pradesh",
+        "third": "Jammu and Kashmir",
+        "fourth": "Sikkim",
+        "right": "Uttarakhand"
+      },
+      {
+        "question": "Who was the first Indian to go into space?",
+        "one": "Kalpana Chawla",
+        "two": "Rakesh Sharma",
+        "third": "Sunita Williams",
+        "fourth": "Yuri Gagarin",
+        "right": "Rakesh Sharma"
+      },
+      {
+        "question": "Which Indian city is known as the 'City of Joy'?",
+        "one": "Kolkata",
+        "two": "Mumbai",
+        "third": "Chennai",
+        "fourth": "Bengaluru",
+        "right": "Kolkata"
+      },
+      {
+        "question": "Who is the current President of India?",
+        "one": "Ram Nath Kovind",
+        "two": "Narendra Modi",
+        "third": "Amit Shah",
+        "fourth": "Pranab Mukherjee",
+        "right": "Ram Nath Kovind"
+      },
+      {
+        "question": "Which Indian state is known as the 'Land of Festivals'?",
+        "one": "Manipur",
+        "two": "Assam",
+        "third": "Odisha",
+        "fourth": "Punjab",
+        "right": "Manipur"
+      },
+      {
+        "question": "Who is known as the 'Nightangle of India'?",
+        "one": "Lata Mangeshkar",
+        "two": "Asha Bhosle",
+        "third": "Kishori Amonkar",
+        "fourth": "Shreya Ghoshal",
+        "right": "Lata Mangeshkar"
+      },
+      {
+        "question": "Which Indian city is known as the 'Garden City of India'?",
+        "one": "Bengaluru",
+        "two": "Hyderabad",
+        "third": "Chennai",
+        "fourth": "Pune",
+        "right": "Bengaluru"
+      },
+      {
+        "question": "Who is known as the 'Rocket Man of India'?",
+        "one": "A.P.J. Abdul Kalam",
+        "two": "Vikram Sarabhai",
+        "third": "Satish Dhawan",
+        "fourth": "Homi Bhabha",
+        "right": "A.P.J. Abdul Kalam"
+      },
+      {
+        "question": "Which Indian state is known as the 'Land of the Thunder Dragon'?",
+        "one": "Bhutan",
+        "two": "Nepal",
+        "third": "Sikkim",
+        "fourth": "Arunachal Pradesh",
+        "right": "Bhutan"
+      },
+      {
+        "question": "Who is known as the 'Tiger of Mysore' in Indian history?",
+        "one": "Tipu Sultan",
+        "two": "Shivaji Maharaj",
+        "third": "Rani Padmini",
+        "fourth": "Chhatrapati Sambhaji",
+        "right": "Tipu Sultan"
+      },
+      {
+        "question": "Which Indian state is known as the 'Land of the Longest Beach'?",
+        "one": "Andhra Pradesh",
+        "two": "Kerala",
+        "third": "Tamil Nadu",
+        "fourth": "Odisha",
+        "right": "Tamil Nadu"
+      },
+      {
+        "question": "Who is known as the 'Nightingale of South India'?",
+        "one": "M.S. Subbulakshmi",
+        "two": "P. Susheela",
+        "third": "K.S. Chithra",
+        "fourth": "S. Janaki",
+        "right": "M.S. Subbulakshmi"
+      },
+      {
+        "question": "Which Indian city is known as the 'Manchester of India'?",
+        "one": "Ahmedabad",
+        "two": "Mumbai",
+        "third": "Kolkata",
+        "fourth": "Chennai",
+        "right": "Ahmedabad"
+      },
+      {
+        "question": "Who is known as the 'Lady with the Lamp' in Indian history?",
+        "one": "Florence Nightingale",
+        "two": "Mother Teresa",
+        "third": "Sarojini Naidu",
+        "fourth": "Indira Gandhi",
+        "right": "Florence Nightingale"
+      },
+      {
+        "question": "Which Indian state is known as the 'Land of High Passes'?",
+        "one": "Jammu and Kashmir",
+        "two": "Himachal Pradesh",
+        "third": "Uttarakhand",
+        "fourth": "Sikkim",
+        "right": "Jammu and Kashmir"
+      },
+      {
+        "question": "Who is known as the 'Missile Man of India'?",
+        "one": "A.P.J. Abdul Kalam",
+        "two": "Vikram Sarabhai",
+        "third": "Satish Dhawan",
+        "fourth": "Homi Bhabha",
+        "right": "A.P.J. Abdul Kalam"
+      },
+      {
+        "question": "Which Indian city is known as the 'City of Lakes'?",
+        "one": "Udaipur",
+        "two": "Jaipur",
+        "third": "Jodhpur",
+        "fourth": "Bikaner",
+        "right": "Udaipur"
+      },
+      {
+        "question": "Who was the first Indian woman to win the Miss World title?",
+        "one": "Aishwarya Rai Bachchan",
+        "two": "Priyanka Chopra",
+        "third": "Sushmita Sen",
+        "fourth": "Dia Mirza",
+        "right": "Reita Faria"
+      },
+      {
+        "question": "Which Indian state is known as the 'Land of the Sun'?",
+        "one": "Andhra Pradesh",
+        "two": "Odisha",
+        "third": "West Bengal",
+        "fourth": "Rajasthan",
+        "right": "Odisha"
+      },
+      {
+        "question": "Who was the first President of India?",
+        "one": "Rajendra Prasad",
+        "two": "Jawaharlal Nehru",
+        "third": "Sardar Vallabhbhai Patel",
+        "fourth": "Lal Bahadur Shastri",
+        "right": "Rajendra Prasad"
+      },
+      {
+        "question": "When did India become independent?",
+        "one": "1945",
+        "two": "1946",
+        "third": "1947",
+        "fourth": "1948",
+        "right": "1947"
+      },
+      {
+        "question": "Who is known as the Father of the Indian Constitution?",
+        "one": "B.R. Ambedkar",
+        "two": "Mahatma Gandhi",
+        "third": "Jawaharlal Nehru",
+        "fourth": "Sardar Vallabhbhai Patel",
+        "right": "B.R. Ambedkar"
+      },
+      {
+        "question": "Which event led to the Jallianwala Bagh massacre in 1919?",
+        "one": "Partition of Bengal",
+        "two": "Rowlatt Act",
+        "third": "Chauri Chaura incident",
+        "fourth": "Non-Cooperation Movement",
+        "right": "Rowlatt Act"
+      },
+      {
+        "question": "Who was the first Prime Minister of India?",
+        "one": "Jawaharlal Nehru",
+        "two": "Indira Gandhi",
+        "third": "Rajiv Gandhi",
+        "fourth": "Lal Bahadur Shastri",
+        "right": "Jawaharlal Nehru"
+      },
+      {
+        "question": "Which Indian state was the first to be formed on linguistic basis?",
+        "one": "Andhra Pradesh",
+        "two": "Tamil Nadu",
+        "third": "Kerala",
+        "fourth": "Maharashtra",
+        "right": "Andhra Pradesh"
+      },
+      {
+        "question": "Who led the Dandi March in 1930?",
+        "one": "Mahatma Gandhi",
+        "two": "Jawaharlal Nehru",
+        "third": "Sardar Vallabhbhai Patel",
+        "fourth": "Subhash Chandra Bose",
+        "right": "Mahatma Gandhi"
+      },
+      {
+        "question": "When was the Quit India Movement launched?",
+        "one": "1939",
+        "two": "1940",
+        "third": "1941",
+        "fourth": "1942",
+        "right": "1942"
+      },
+      {
+        "question": "Which Indian state was known as the United Provinces during British rule?",
+        "one": "Uttar Pradesh",
+        "two": "Bihar",
+        "third": "Madhya Pradesh",
+        "fourth": "Rajasthan",
+        "right": "Uttar Pradesh"
+      },
+      {
+        "question": "Who founded the Indian National Congress in 1885?",
+        "one": "A.O. Hume",
+        "two": "Dadabhai Naoroji",
+        "third": "Surendranath Banerjee",
+        "fourth": "Gopal Krishna Gokhale",
+        "right": "A.O. Hume"
+      },
+      {
+        "question": "Which Indian leader is known as the Iron Man of India?",
+        "one": "Sardar Vallabhbhai Patel",
+        "two": "Jawaharlal Nehru",
+        "third": "Subhash Chandra Bose",
+        "fourth": "Lal Bahadur Shastri",
+        "right": "Sardar Vallabhbhai Patel"
+      },
+      {
+        "question": "When was the Indian National Army (INA) formed?",
+        "one": "1941",
+        "two": "1942",
+        "third": "1943",
+        "fourth": "1944",
+        "right": "1942"
+      },
+      {
+        "question": "Who is known as the Nightingale of India?",
+        "one": "Indira Gandhi",
+        "two": "Sarojini Naidu",
+        "third": "Mother Teresa",
+        "fourth": "Kalpana Chawla",
+        "right": "Sarojini Naidu"
+      },
+      {
+        "question": "Which Indian state was the first to achieve 100% literacy?",
+        "one": "Kerala",
+        "two": "Tamil Nadu",
+        "third": "Maharashtra",
+        "fourth": "Gujarat",
+        "right": "Kerala"
+      },
+      {
+        "question": "Who is known as the Grand Old Man of India?",
+        "one": "B.R. Ambedkar",
+        "two": "Dadabhai Naoroji",
+        "third": "Bal Gangadhar Tilak",
+        "fourth": "Gopal Krishna Gokhale",
+        "right": "Dadabhai Naoroji"
+      },
+      {
+        "question": "When was the Bengal partitioned into East Bengal and West Bengal?",
+        "one": "1905",
+        "two": "1911",
+        "third": "1935",
+        "fourth": "1947",
+        "right": "1947"
+      },
+      {
+        "question": "Who was the first Indian to win the Nobel Prize?",
+        "one": "Rabindranath Tagore",
+        "two": "C.V. Raman",
+        "third": "Har Gobind Khorana",
+        "fourth": "Mother Teresa",
+        "right": "Rabindranath Tagore"
+      },
+      {
+        "question": "Which Indian state was known as Bombay Presidency during British rule?",
+        "one": "Maharashtra",
+        "two": "Gujarat",
+        "third": "Karnataka",
+        "fourth": "Tamil Nadu",
+        "right": "Maharashtra"
+      },
+      {
+        "question": "Who was the first Indian woman to become the Prime Minister of India?",
+        "one": "Indira Gandhi",
+        "two": "Sarojini Naidu",
+        "third": "Pratibha Patil",
+        "fourth": "Meira Kumar",
+        "right": "Indira Gandhi"
+      },
+      {
+        "question": "When was the Non-Cooperation Movement launched?",
+        "one": "1918",
+        "two": "1919",
+        "third": "1920",
+        "fourth": "1921",
+        "right": "1920"
+      },
+      {
+        "question": "Who was the first Indian to go into space?",
+        "one": "Rakesh Sharma",
+        "two": "Kalpana Chawla",
+        "third": "Sunita Williams",
+        "fourth": "Yuri Gagarin",
+        "right": "Rakesh Sharma"
+      },
+      {
+        "question": "Which Indian state was known as Madras Presidency during British rule?",
+        "one": "Tamil Nadu",
+        "two": "Andhra Pradesh",
+        "third": "Kerala",
+        "fourth": "Karnataka",
+        "right": "Tamil Nadu"
+      },
+      {
+        "question": "Who is known as the Missile Man of India?",
+        "one": "A.P.J. Abdul Kalam",
+        "two": "Homi J. Bhabha",
+        "third": "Vikram Sarabhai",
+        "fourth": "Satish Dhawan",
+        "right": "A.P.J. Abdul Kalam"
+      },
+      {
+        "question": "When was the Swadeshi Movement launched?",
+        "one": "1904",
+        "two": "1905",
+        "third": "1906",
+        "fourth": "1907",
+        "right": "1905"
+      },
+      {
+        "question": "Who was the first Indian to win the Nobel Peace Prize?",
+        "one": "Mahatma Gandhi",
+        "two": "Mother Teresa",
+        "third": "Kailash Satyarthi",
+        "fourth": "Malala Yousafzai",
+        "right": "Mother Teresa"
+      },
+      {
+        "question": "Which Indian state was known as the North-West Frontier Province during British rule?",
+        "one": "Khyber Pakhtunkhwa",
+        "two": "Punjab",
+        "third": "Rajasthan",
+        "fourth": "Gujarat",
+        "right": "Khyber Pakhtunkhwa"
+      },
+      {
+        "question": "Who is known as the Architect of Modern India?",
+        "one": "Jawaharlal Nehru",
+        "two": "Sardar Vallabhbhai Patel",
+        "third": "B.R. Ambedkar",
+        "fourth": "Indira Gandhi",
+        "right": "Jawaharlal Nehru"
+      },
+      {
+        "question": "When was the Civil Disobedience Movement launched?",
+        "one": "1928",
+        "two": "1929",
+        "third": "1930",
+        "fourth": "1931",
+        "right": "1930"
+      },
+      {
+        "question": "Who was the first Indian to win an individual Olympic gold medal?",
+        "one": "Milkha Singh",
+        "two": "Abhinav Bindra",
+        "third": "P.V. Sindhu",
+        "fourth": "Sakshi Malik",
+        "right": "Abhinav Bindra"
+      },
+      {
+        "question": "Which Indian state was known as the United Provinces during British rule?",
+        "one": "Uttar Pradesh",
+        "two": "Bihar",
+        "third": "Madhya Pradesh",
+        "fourth": "Rajasthan",
+        "right": "Uttar Pradesh"
+      },
+      {
+        "question": "Who is known as the Father of the Indian Space Program?",
+        "one": "Vikram Sarabhai",
+        "two": "Homi J. Bhabha",
+        "third": "A.P.J. Abdul Kalam",
+        "fourth": "Satish Dhawan",
+        "right": "Vikram Sarabhai"
+      },
+      {
+        "question": "When was the Simon Commission formed?",
+        "one": "1918",
+        "two": "1919",
+        "third": "1927",
+        "fourth": "1928",
+        "right": "1927"
+      },
+      {
+        "question": "Who was the first Indian to win the Nobel Prize in Literature?",
+        "one": "Rabindranath Tagore",
+        "two": "Sarojini Naidu",
+        "third": "V.S. Naipaul",
+        "fourth": "Arundhati Roy",
+        "right": "Rabindranath Tagore"
+      },
+      {
+        "question": "Which Indian state was known as the Madras Presidency during British rule?",
+        "one": "Tamil Nadu",
+        "two": "Andhra Pradesh",
+        "third": "Kerala",
+        "fourth": "Karnataka",
+        "right": "Tamil Nadu"
+      },
+      {
+        "question": "Who is known as the Missile Woman of India?",
+        "one": "Tessy Thomas",
+        "two": "Minal Rohit",
+        "third": "Anuradha TK",
+        "fourth": "Nandini Harinath",
+        "right": "Tessy Thomas"
+      },
+      {
+        "question": "When was the Poona Pact signed?",
+        "one": "1930",
+        "two": "1931",
+        "third": "1932",
+        "fourth": "1933",
+        "right": "1932"
+      },
+      {
+        "question": "Who was the first Indian to win the Nobel Prize in Physics?",
+        "one": "C.V. Raman",
+        "two": "Homi J. Bhabha",
+        "third": "Subrahmanyan Chandrasekhar",
+        "fourth": "Venkatraman Ramakrishnan",
+        "right": "C.V. Raman"
+      },
+      {
+        "question": "Which Indian state was known as the North-East Frontier Agency during British rule?",
+        "one": "Arunachal Pradesh",
+        "two": "Assam",
+        "third": "Nagaland",
+        "fourth": "Manipur",
+        "right": "Arunachal Pradesh"
+      },
+      {
+        "question": "Who is known as the Iron Lady of India?",
+        "one": "Indira Gandhi",
+        "two": "Sarojini Naidu",
+        "third": "Pratibha Patil",
+        "fourth": "Mamata Banerjee",
+        "right": "Indira Gandhi"
+      },
+      {
+        "question": "What was the capital of the Mughal Empire in India?",
+        "one": "Agra",
+        "two": "Delhi",
+        "third": "Jaipur",
+        "fourth": "Kolkata",
+        "right": "Agra"
+      },
+      {
+        "question": "Who was the founder of the Delhi Sultanate?",
+        "one": "Qutub-ud-din Aibak",
+        "two": "Alauddin Khilji",
+        "third": "Muhammad bin Tughlaq",
+        "fourth": "Iltutmish",
+        "right": "Qutub-ud-din Aibak"
+      },
+      {
+        "question": "The Vijayanagara Empire was founded in which century?",
+        "one": "11th century",
+        "two": "13th century",
+        "third": "14th century",
+        "fourth": "15th century",
+        "right": "14th century"
+      },
+      {
+        "question": "Who was the last ruler of the Maurya Empire?",
+        "one": "Bindusara",
+        "two": "Chandragupta Maurya",
+        "third": "Ashoka",
+        "fourth": "Samudragupta",
+        "right": "Ashoka"
+      },
+      {
+        "question": "The Battle of Plassey was fought in which year?",
+        "one": "1757",
+        "two": "1764",
+        "third": "1770",
+        "fourth": "1781",
+        "right": "1757"
+      },
+      {
+        "question": "Who was the first Sultan of Delhi?",
+        "one": "Iltutmish",
+        "two": "Alauddin Khilji",
+        "third": "Balban",
+        "fourth": "Qutub-ud-din Aibak",
+        "right": "Qutub-ud-din Aibak"
+      },
+      {
+        "question": "The Maratha Empire reached its peak under the rule of which Peshwa?",
+        "one": "Baji Rao I",
+        "two": "Shivaji",
+        "third": "Balaji Baji Rao",
+        "fourth": "Madhavrao I",
+        "right": "Baji Rao I"
+      },
+      {
+        "question": "Who was the first European to reach India by sea?",
+        "one": "Christopher Columbus",
+        "two": "Vasco da Gama",
+        "third": "Ferdinand Magellan",
+        "fourth": "James Cook",
+        "right": "Vasco da Gama"
+      },
+      {
+        "question": "The Battle of Haldighati was fought between which two rulers?",
+        "one": "Akbar and Rana Pratap",
+        "two": "Aurangzeb and Shivaji",
+        "third": "Humayun and Hemu",
+        "fourth": "Babur and Ibrahim Lodi",
+        "right": "Akbar and Rana Pratap"
+      },
+      {
+        "question": "Who was the last Mughal Emperor of India?",
+        "one": "Shah Jahan",
+        "two": "Bahadur Shah Zafar",
+        "third": "Aurangzeb",
+        "fourth": "Jahangir",
+        "right": "Bahadur Shah Zafar"
+      },
+      {
+        "question": "The Chola dynasty was primarily centered in which region of India?",
+        "one": "North India",
+        "two": "West India",
+        "third": "East India",
+        "fourth": "South India",
+        "right": "South India"
+      },
+      {
+        "question": "Who was the founder of the Gupta Empire?",
+        "one": "Samudragupta",
+        "two": "Chandragupta I",
+        "third": "Chandragupta II",
+        "fourth": "Skandagupta",
+        "right": "Chandragupta I"
+      },
+      {
+        "question": "The Saka Era, also known as the Shalivahana Era, began in which year?",
+        "one": "78 CE",
+        "two": "120 CE",
+        "third": "248 CE",
+        "fourth": "319 CE",
+        "right": "78 CE"
+      },
+      {
+        "question": "Who was the first President of the Indian National Congress?",
+        "one": "Bal Gangadhar Tilak",
+        "two": "Dadabhai Naoroji",
+        "third": "A.O. Hume",
+        "fourth": "Surendranath Banerjee",
+        "right": "A.O. Hume"
+      },
+      {
+        "question": "The Harappan Civilization was discovered in which year?",
+        "one": "1921",
+        "two": "1947",
+        "third": "1967",
+        "fourth": "1974",
+        "right": "1921"
+      },
+      {
+        "question": "Who was the first Muslim invader of India?",
+        "one": "Muhammad bin Qasim",
+        "two": "Timur",
+        "third": "Babur",
+        "fourth": "Mahmud of Ghazni",
+        "right": "Muhammad bin Qasim"
+      },
+      {
+        "question": "The Red Fort in Delhi was built by which Mughal Emperor?",
+        "one": "Jahangir",
+        "two": "Aurangzeb",
+        "third": "Shah Jahan",
+        "fourth": "Akbar",
+        "right": "Shah Jahan"
+      },
+      {
+        "question": "Who was the first British Governor-General of India?",
+        "one": "Robert Clive",
+        "two": "Warren Hastings",
+        "third": "William Bentinck",
+        "fourth": "Charles Cornwallis",
+        "right": "Warren Hastings"
+      },
+      {
+        "question": "The Dandi March, also known as the Salt March, was led by which Indian leader?",
+        "one": "Jawaharlal Nehru",
+        "two": "Mahatma Gandhi",
+        "third": "Subhas Chandra Bose",
+        "fourth": "Bhagat Singh",
+        "right": "Mahatma Gandhi"
+      },
+      {
+        "question": "Who was the last Viceroy of India?",
+        "one": "Lord Mountbatten",
+        "two": "Lord Canning",
+        "third": "Lord Curzon",
+        "fourth": "Lord Dalhousie",
+        "right": "Lord Mountbatten"
+      },
+      {
+        "question": "The Battle of Buxar was fought in which year?",
+        "one": "1764",
+        "two": "1770",
+        "third": "1781",
+        "fourth": "1799",
+        "right": "1764"
+      },
+      {
+        "question": "Who was the first Prime Minister of India?",
+        "one": "Lal Bahadur Shastri",
+        "two": "Jawaharlal Nehru",
+        "third": "Indira Gandhi",
+        "fourth": "Rajiv Gandhi",
+        "right": "Jawaharlal Nehru"
+      },
+      {
+        "question": "The Indus Valley Civilization was primarily centered in which region of India?",
+        "one": "North India",
+        "two": "West India",
+        "third": "East India",
+        "fourth": "South India",
+        "right": "West India"
+      },
+      {
+        "question": "Who was the founder of the Khilji dynasty in Delhi?",
+        "one": "Alauddin Khilji",
+        "two": "Jalaluddin Khilji",
+        "third": "Qutb-ud-din Mubarak",
+        "fourth": "Iltutmish",
+        "right": "Jalaluddin Khilji"
+      },
+      {
+        "question": "The Maurya Empire was founded in which century?",
+        "one": "4th century BCE",
+        "two": "3rd century BCE",
+        "third": "2nd century BCE",
+        "fourth": "1st century BCE",
+        "right": "4th century BCE"
+      },
+      {
+        "question": "Who was the first Governor-General of Bengal?",
+        "one": "Robert Clive",
+        "two": "Warren Hastings",
+        "third": "William Bentinck",
+        "fourth": "Charles Cornwallis",
+        "right": "Warren Hastings"
+      },
+      {
+        "question": "The Chalukya dynasty was primarily centered in which region of India?",
+        "one": "North India",
+        "two": "West India",
+        "third": "East India",
+        "fourth": "South India",
+        "right": "South India"
+      },
+      {
+        "question": "Who was the founder of the Tughlaq dynasty in Delhi?",
+        "one": "Qutub-ud-din Aibak",
+        "two": "Alauddin Khilji",
+        "third": "Muhammad bin Tughlaq",
+        "fourth": "Iltutmish",
+        "right": "Ghiyasuddin Tughlaq"
+      },
+      {
+        "question": "The Gupta Empire is known for its advancements in which field?",
+        "one": "Art and Architecture",
+        "two": "Medicine",
+        "third": "Mathematics",
+        "fourth": "All of the above",
+        "right": "All of the above"
+      },
+      {
+        "question": "Who was the first Indian to be awarded the Nobel Prize?",
+        "one": "C.V. Raman",
+        "two": "Rabindranath Tagore",
+        "third": "Hargobind Khorana",
+        "fourth": "Mother Teresa",
+        "right": "Rabindranath Tagore"
+      },
+      {
+        "question": "The Battle of Panipat was fought between which two rulers?",
+        "one": "Akbar and Rana Pratap",
+        "two": "Aurangzeb and Shivaji",
+        "third": "Humayun and Hemu",
+        "fourth": "Babur and Ibrahim Lodi",
+        "right": "Babur and Ibrahim Lodi"
+      },
+      {
+        "question": "Who was the first Governor-General of India?",
+        "one": "Robert Clive",
+        "two": "Warren Hastings",
+        "third": "William Bentinck",
+        "fourth": "Charles Cornwallis",
+        "right": "Warren Hastings"
+      },
+      {
+        "question": "The Quit India Movement was launched in which year?",
+        "one": "1919",
+        "two": "1929",
+        "third": "1942",
+        "fourth": "1947",
+        "right": "1942"
+      },
+      {
+        "question": "Who was the first President of India?",
+        "one": "Rajendra Prasad",
+        "two": "Sarvepalli Radhakrishnan",
+        "third": "Zakir Husain",
+        "fourth": "V.V. Giri",
+        "right": "Rajendra Prasad"
+      },
+      {
+        "question": "The Rashtrakuta dynasty was primarily centered in which region of India?",
+        "one": "North India",
+        "two": "West India",
+        "third": "East India",
+        "fourth": "South India",
+        "right": "South India"
+      },
+      {
+        "question": "Who was the founder of the Mughal Empire in India?",
+        "one": "Akbar",
+        "two": "Jahangir",
+        "third": "Babur",
+        "fourth": "Shah Jahan",
+        "right": "Babur"
+      },
+      {
+        "question": "The Battle of Plassey was fought between which two rulers?",
+        "one": "Akbar and Rana Pratap",
+        "two": "Aurangzeb and Shivaji",
+        "third": "Humayun and Hemu",
+        "fourth": "Siraj-ud-daulah and Robert Clive",
+        "right": "Siraj-ud-daulah and Robert Clive"
+      },
+      {
+        "question": "Who was the first Governor-General of India after independence?",
+        "one": "Lord Mountbatten",
+        "two": "Lord Canning",
+        "third": "Lord Curzon",
+        "fourth": "Lord Dalhousie",
+        "right": "Lord Mountbatten"
+      },{
+        "question": "What is the capital of the Delhi Sultanate?",
+        "one": "Agra",
+        "two": "Delhi",
+        "third": "Jaipur",
+        "fourth": "Kolkata",
+        "right": "Delhi"
+      },
+      {
+        "question": "Who founded the Vijayanagara Empire?",
+        "one": "Krishnadevaraya",
+        "two": "Rajendra Chola",
+        "third": "Harihara I",
+        "fourth": "Shivaji",
+        "right": "Harihara I"
+      },
+      {
+        "question": "Which Mughal emperor built the Red Fort in Delhi?",
+        "one": "Akbar",
+        "two": "Humayun",
+        "third": "Shah Jahan",
+        "fourth": "Aurangzeb",
+        "right": "Shah Jahan"
+      },
+      {
+        "question": "Who was the first woman ruler of Delhi?",
+        "one": "Razia Sultana",
+        "two": "Jahanara Begum",
+        "third": "Noor Jahan",
+        "fourth": "Mumtaz Mahal",
+        "right": "Razia Sultana"
+      },
+      {
+        "question": "Which battle marked the beginning of Mughal rule in India?",
+        "one": "Battle of Haldighati",
+        "two": "Battle of Plassey",
+        "third": "First Battle of Panipat",
+        "fourth": "Battle of Talikota",
+        "right": "First Battle of Panipat"
+      },
+      {
+        "question": "Who was the founder of the Maratha Empire?",
+        "one": "Shivaji",
+        "two": "Baji Rao I",
+        "third": "Balaji Vishwanath",
+        "fourth": "Peshwa Madhavrao I",
+        "right": "Shivaji"
+      },
+      {
+        "question": "Which dynasty built the Konark Sun Temple?",
+        "one": "Chola Dynasty",
+        "two": "Chalukya Dynasty",
+        "third": "Pallava Dynasty",
+        "fourth": "Ganga Dynasty",
+        "right": "Ganga Dynasty"
+      },
+      {
+        "question": "Who was the last ruler of the Maurya Empire?",
+        "one": "Bindusara",
+        "two": "Ashoka",
+        "third": "Chandragupta Maurya",
+        "fourth": "Brihadratha Maurya",
+        "right": "Brihadratha Maurya"
+      },
+      {
+        "question": "Which dynasty built the Khajuraho Temples?",
+        "one": "Pallava Dynasty",
+        "two": "Chola Dynasty",
+        "third": "Chandela Dynasty",
+        "fourth": "Gupta Dynasty",
+        "right": "Chandela Dynasty"
+      },
+      {
+        "question": "Who was the first Sultan of Delhi?",
+        "one": "Iltutmish",
+        "two": "Qutub-ud-din Aibak",
+        "third": "Alauddin Khilji",
+        "fourth": "Balban",
+        "right": "Qutub-ud-din Aibak"
+      },
+      {
+        "question": "Which dynasty built the Brihadeeswarar Temple?",
+        "one": "Pallava Dynasty",
+        "two": "Pandya Dynasty",
+        "third": "Rashtrakuta Dynasty",
+        "fourth": "Chola Dynasty",
+        "right": "Chola Dynasty"
+      },
+      {
+        "question": "Who was the first Governor-General of Bengal?",
+        "one": "Warren Hastings",
+        "two": "Robert Clive",
+        "third": "William Bentinck",
+        "fourth": "Lord Cornwallis",
+        "right": "Warren Hastings"
+      },
+      {
+        "question": "Which battle marked the end of Maratha Empire?",
+        "one": "Third Battle of Panipat",
+        "two": "Battle of Buxar",
+        "third": "Battle of Plassey",
+        "fourth": "Battle of Wandiwash",
+        "right": "Third Battle of Panipat"
+      },
+      {
+        "question": "Who was the last Mughal emperor?",
+        "one": "Bahadur Shah Zafar",
+        "two": "Aurangzeb",
+        "third": "Shah Jahan",
+        "fourth": "Akbar",
+        "right": "Bahadur Shah Zafar"
+      },
+      {
+        "question": "Which dynasty built the Shore Temple in Mahabalipuram?",
+        "one": "Pallava Dynasty",
+        "two": "Chola Dynasty",
+        "third": "Chalukya Dynasty",
+        "fourth": "Gupta Dynasty",
+        "right": "Pallava Dynasty"
+      },
+      {
+        "question": "Who was the first President of the Indian National Congress?",
+        "one": "Surendranath Banerjee",
+        "two": "Dadabhai Naoroji",
+        "third": "A.O. Hume",
+        "fourth": "W.C. Banerjee",
+        "right": "A.O. Hume"
+      },
+      {
+        "question": "Which dynasty built the Sanchi Stupa?",
+        "one": "Maurya Dynasty",
+        "two": "Gupta Dynasty",
+        "third": "Kushan Dynasty",
+        "fourth": "Satavahana Dynasty",
+        "right": "Maurya Dynasty"
+      },
+      {
+        "question": "Who was the first Viceroy of India?",
+        "one": "Lord Mountbatten",
+        "two": "Lord Canning",
+        "third": "Lord Curzon",
+        "fourth": "Lord Dalhousie",
+        "right": "Lord Canning"
+      },
+      {
+        "question": "Which dynasty built the Ajanta Caves?",
+        "one": "Pallava Dynasty",
+        "two": "Chola Dynasty",
+        "third": "Chalukya Dynasty",
+        "fourth": "Vakataka Dynasty",
+        "right": "Vakataka Dynasty"
+      },
+      {
+        "question": "Who was the first Prime Minister of India?",
+        "one": "Jawaharlal Nehru",
+        "two": "Lal Bahadur Shastri",
+        "third": "Indira Gandhi",
+        "fourth": "Rajiv Gandhi",
+        "right": "Jawaharlal Nehru"
+      },
+      {
+        "question": "Which dynasty built the Qutub Minar?",
+        "one": "Pallava Dynasty",
+        "two": "Chola Dynasty",
+        "third": "Chalukya Dynasty",
+        "fourth": "Delhi Sultanate",
+        "right": "Delhi Sultanate"
+      },
+      {
+        "question": "Who was the first Indian to receive the Nobel Prize?",
+        "one": "C.V. Raman",
+        "two": "Rabindranath Tagore",
+        "third": "Har Gobind Khorana",
+        "fourth": "Mother Teresa",
+        "right": "Rabindranath Tagore"
+      },
+      {
+        "question": "Which dynasty built the Ellora Caves?",
+        "one": "Pallava Dynasty",
+        "two": "Chola Dynasty",
+        "third": "Chalukya Dynasty",
+        "fourth": "Rashtrakuta Dynasty",
+        "right": "Rashtrakuta Dynasty"
+      },
+      {
+        "question": "Who was the first Governor-General of India?",
+        "one": "Warren Hastings",
+        "two": "Robert Clive",
+        "third": "William Bentinck",
+        "fourth": "Lord Cornwallis",
+        "right": "Warren Hastings"
+      },
+      {
+        "question": "Which dynasty built the Meenakshi Temple?",
+        "one": "Pallava Dynasty",
+        "two": "Chola Dynasty",
+        "third": "Pandya Dynasty",
+        "fourth": "Rashtrakuta Dynasty",
+        "right": "Pandya Dynasty"
+      },
+      {
+        "question": "Who was the first Indian to go into space?",
+        "one": "Kalpana Chawla",
+        "two": "Rakesh Sharma",
+        "third": "Sunita Williams",
+        "fourth": "Yuri Gagarin",
+        "right": "Rakesh Sharma"
+      },
+      {
+        "question": "Which dynasty built the Golconda Fort?",
+        "one": "Pallava Dynasty",
+        "two": "Chola Dynasty",
+        "third": "Chalukya Dynasty",
+        "fourth": "Qutb Shahi Dynasty",
+        "right": "Qutb Shahi Dynasty"
+      },
+      {
+        "question": "Who was the first Indian to win the Nobel Prize in Literature?",
+        "one": "C.V. Raman",
+        "two": "Rabindranath Tagore",
+        "third": "Har Gobind Khorana",
+        "fourth": "Mother Teresa",
+        "right": "Rabindranath Tagore"
+      },
+      {
+        "question": "Which dynasty built the Hampi monuments?",
+        "one": "Pallava Dynasty",
+        "two": "Chola Dynasty",
+        "third": "Chalukya Dynasty",
+        "fourth": "Vijayanagara Empire",
+        "right": "Vijayanagara Empire"
+      },
+      {
+        "question": "Who was the first Indian to win an individual Olympic gold medal?",
+        "one": "Milkha Singh",
+        "two": "Abhinav Bindra",
+        "third": "Sania Mirza",
+        "fourth": "P.V. Sindhu",
+        "right": "Abhinav Bindra"
+      },
+      {
+        "question": "Which dynasty built the Charminar?",
+        "one": "Pallava Dynasty",
+        "two": "Chola Dynasty",
+        "third": "Chalukya Dynasty",
+        "fourth": "Qutb Shahi Dynasty",
+        "right": "Qutb Shahi Dynasty"
+      },
+      {
+        "question": "Who was the first Indian to win the Miss World title?",
+        "one": "Sushmita Sen",
+        "two": "Aishwarya Rai Bachchan",
+        "third": "Priyanka Chopra",
+        "fourth": "Manushi Chhillar",
+        "right": "Reita Faria"
+      },
+      {
+        "question": "Which dynasty built the Mysore Palace?",
+        "one": "Pallava Dynasty",
+        "two": "Chola Dynasty",
+        "third": "Chalukya Dynasty",
+        "fourth": "Wadiyar Dynasty",
+        "right": "Wadiyar Dynasty"
+      },
+      {
+        "question": "Who was the first Indian to win the Nobel Peace Prize?",
+        "one": "C.V. Raman",
+        "two": "Rabindranath Tagore",
+        "third": "Har Gobind Khorana",
+        "fourth": "Mother Teresa",
+        "right": "Mother Teresa"
+      },
+      {
+        "question": "Which dynasty built the Brihadeswara Temple?",
+        "one": "Pallava Dynasty",
+        "two": "Chola Dynasty",
+        "third": "Chalukya Dynasty",
+        "fourth": "Gupta Dynasty",
+        "right": "Chola Dynasty"
+      },
+      {
+        "question": "Who was the first Indian to win the Booker Prize?",
+        "one": "Arundhati Roy",
+        "two": "Salman Rushdie",
+        "third": "V.S. Naipaul",
+        "fourth": "Kiran Desai",
+        "right": "Arundhati Roy"
+      },
+      {
+        "question": "Which dynasty built the Victoria Memorial?",
+        "one": "Pallava Dynasty",
+        "two": "Chola Dynasty",
+        "third": "Chalukya Dynasty",
+        "fourth": "British Empire",
+        "right": "British Empire"
+      },
+      {
+        "question": "Who was the first Indian to win an individual Olympic silver medal?",
+        "one": "Milkha Singh",
+        "two": "Abhinav Bindra",
+        "third": "Sania Mirza",
+        "fourth": "P.V. Sindhu",
+        "right": "Rajyavardhan Singh Rathore"
+      },
+      {
+        "question": "Which dynasty built the Rashtrapati Bhavan?",
+        "one": "Pallava Dynasty",
+        "two": "Chola Dynasty",
+        "third": "Chalukya Dynasty",
+        "fourth": "British Empire",
+        "right": "British Empire"
+      },{
+        "question": "What was the capital of the Bengal Sultanate?",
+        "one": "Murshidabad",
+        "two": "Sonargaon",
+        "third": "Pandua",
+        "fourth": "Lakhnauti",
+        "right": "Lakhnauti"
+      },
+      {
+        "question": "Who founded the city of Kolkata?",
+        "one": "Shah Jahan",
+        "two": "Akbar",
+        "third": "Job Charnock",
+        "fourth": "Robert Clive",
+        "right": "Job Charnock"
+      },
+      {
+        "question": "Which European power was the first to establish a factory in Kolkata?",
+        "one": "Portugal",
+        "two": "France",
+        "third": "Denmark",
+        "fourth": "England",
+        "right": "England"
+      },
+      {
+        "question": "Which battle marked the beginning of British rule in Kolkata?",
+        "one": "Battle of Plassey",
+        "two": "Battle of Buxar",
+        "third": "Battle of Panipat",
+        "fourth": "Battle of Wandiwash",
+        "right": "Battle of Plassey"
+      },
+      {
+        "question": "Who was the first Governor-General of Bengal?",
+        "one": "Warren Hastings",
+        "two": "Robert Clive",
+        "third": "Lord Cornwallis",
+        "fourth": "William Bentinck",
+        "right": "Warren Hastings"
+      },
+      {
+        "question": "Which British Governor-General is known as the 'Architect of Modern Kolkata'?",
+        "one": "Lord Wellesley",
+        "two": "Lord Dalhousie",
+        "third": "Lord Curzon",
+        "fourth": "Lord Ripon",
+        "right": "Lord Wellesley"
+      },
+      {
+        "question": "Which social reformer is known as the 'Maker of Modern Kolkata'?",
+        "one": "Raja Ram Mohan Roy",
+        "two": "Ishwar Chandra Vidyasagar",
+        "third": "Swami Vivekananda",
+        "fourth": "Rabindranath Tagore",
+        "right": "Ishwar Chandra Vidyasagar"
+      },
+      {
+        "question": "Which event led to the partition of Bengal in 1905?",
+        "one": "Revolt of 1857",
+        "two": "Swadeshi Movement",
+        "third": "Quit India Movement",
+        "fourth": "Non-Cooperation Movement",
+        "right": "Swadeshi Movement"
+      },
+      {
+        "question": "Who was the first Indian to be elected the Mayor of Kolkata?",
+        "one": "Surendranath Banerjee",
+        "two": "Deshbandhu Chittaranjan Das",
+        "third": "Subhas Chandra Bose",
+        "fourth": "Sarojini Naidu",
+        "right": "Deshbandhu Chittaranjan Das"
+      },
+      {
+        "question": "Which university is the oldest in Kolkata?",
+        "one": "University of Calcutta",
+        "two": "Jadavpur University",
+        "third": "Presidency University",
+        "fourth": "Rabindra Bharati University",
+        "right": "University of Calcutta"
+      },
+      {
+        "question": "Which iconic bridge connects Kolkata with Howrah?",
+        "one": "Vidyasagar Setu",
+        "two": "Rabindra Setu",
+        "third": "Nivedita Setu",
+        "fourth": "Vivekananda Setu",
+        "right": "Rabindra Setu"
+      },
+      {
+        "question": "Which festival is celebrated with grandeur in Kolkata as 'Durga Puja'?",
+        "one": "Diwali",
+        "two": "Holi",
+        "third": "Eid",
+        "fourth": "Navratri",
+        "right": "Navratri"
+      },
+      {
+        "question": "Which cricket stadium in Kolkata is known as the 'Mecca of Indian Cricket'?",
+        "one": "Eden Gardens",
+        "two": "Salt Lake Stadium",
+        "third": "Netaji Indoor Stadium",
+        "fourth": "Mohun Bagan Ground",
+        "right": "Eden Gardens"
+      },
+      {
+        "question": "Which Nobel laureate was born in Kolkata?",
+        "one": "Mother Teresa",
+        "two": "Rabindranath Tagore",
+        "third": "C. V. Raman",
+        "fourth": "Amartya Sen",
+        "right": "Rabindranath Tagore"
+      },
+      {
+        "question": "Which iconic film director hails from Kolkata?",
+        "one": "Satyajit Ray",
+        "two": "Ritwik Ghatak",
+        "third": "Mrinal Sen",
+        "fourth": "Aparna Sen",
+        "right": "Satyajit Ray"
+      },
+      {
+        "question": "Which metro system is the oldest in India?",
+        "one": "Kolkata Metro",
+        "two": "Delhi Metro",
+        "third": "Mumbai Metro",
+        "fourth": "Chennai Metro",
+        "right": "Kolkata Metro"
+      },
+      {
+        "question": "Which iconic bookstore in Kolkata is a UNESCO World Heritage Site?",
+        "one": "Oxford Bookstore",
+        "two": "Starmark",
+        "third": "College Street Book Market",
+        "fourth": "Crossword",
+        "right": "College Street Book Market"
+      },
+      {
+        "question": "Which iconic sweet dish originated in Kolkata?",
+        "one": "Gulab Jamun",
+        "two": "Rasgulla",
+        "third": "Jalebi",
+        "fourth": "Laddu",
+        "right": "Rasgulla"
+      },
+      {
+        "question": "Which iconic building in Kolkata is known as the 'Writer's Building'?",
+        "one": "Indian Museum",
+        "two": "Victoria Memorial",
+        "third": "Howrah Bridge",
+        "fourth": "Raj Bhavan",
+        "right": "Writer's Building"
+      },
+      
+      {
+        "question": "Who was the founder of the Maurya Empire?",
+        "one": "Chandragupta Maurya",
+        "two": "Ashoka the Great",
+        "third": "Samudragupta",
+        "fourth": "Bindusara",
+        "right": "Chandragupta Maurya"
+      },
+      {
+        "question": "Which ancient city is famous for its university of Nalanda?",
+        "one": "Varanasi",
+        "two": "Patna",
+        "third": "Kolkata",
+        "fourth": "Delhi",
+        "right": "Patna"
+      },
+      {
+        "question": "Who was the first ruler of the Gupta Empire?",
+        "one": "Chandragupta I",
+        "two": "Samudragupta",
+        "third": "Chandragupta II",
+        "fourth": "Kumaragupta",
+        "right": "Chandragupta I"
+      },
+      {
+        "question": "The Indus Valley Civilization was discovered in which year?",
+        "one": "1921",
+        "two": "1922",
+        "third": "1923",
+        "fourth": "1924",
+        "right": "1922"
+      },
+      {
+        "question": "The Battle of Plassey was fought in which year?",
+        "one": "1756",
+        "two": "1757",
+        "third": "1758",
+        "fourth": "1759",
+        "right": "1757"
+      },
+      {
+        "question": "Who was the last ruler of the Mughal Empire?",
+        "one": "Bahadur Shah Zafar",
+        "two": "Shah Jahan",
+        "third": "Aurangzeb",
+        "fourth": "Akbar",
+        "right": "Bahadur Shah Zafar"
+      },
+      {
+        "question": "The Harappan Civilization was located in which modern-day country?",
+        "one": "India",
+        "two": "Pakistan",
+        "third": "Bangladesh",
+        "fourth": "Nepal",
+        "right": "Pakistan"
+      },
+      {
+        "question": "Who was the first President of India?",
+        "one": "Jawaharlal Nehru",
+        "two": "Rajendra Prasad",
+        "third": "Sardar Patel",
+        "fourth": "Indira Gandhi",
+        "right": "Rajendra Prasad"
+      },
+      {
+        "question": "The Chola dynasty was associated with which region of India?",
+        "one": "North India",
+        "two": "South India",
+        "third": "East India",
+        "fourth": "West India",
+        "right": "South India"
+      },
+      {
+        "question": "Who was the first Prime Minister of India?",
+        "one": "Jawaharlal Nehru",
+        "two": "Indira Gandhi",
+        "third": "Rajiv Gandhi",
+        "fourth": "Narendra Modi",
+        "right": "Jawaharlal Nehru"
+      },
+      {
+        "question": "The Red Fort in Delhi was built by which Mughal emperor?",
+        "one": "Akbar",
+        "two": "Shah Jahan",
+        "third": "Aurangzeb",
+        "fourth": "Jahangir",
+        "right": "Shah Jahan"
+      },
+      {
+        "question": "Who was the founder of the Gupta Empire?",
+        "one": "Chandragupta Maurya",
+        "two": "Samudragupta",
+        "third": "Chandragupta I",
+        "fourth": "Kumaragupta",
+        "right": "Chandragupta I"
+      },
+      {
+        "question": "The Ajanta Caves are located in which state of India?",
+        "one": "Maharashtra",
+        "two": "Karnataka",
+        "third": "Tamil Nadu",
+        "fourth": "Rajasthan",
+        "right": "Maharashtra"
+      },
+      {
+        "question": "Who was the first female Prime Minister of India?",
+        "one": "Indira Gandhi",
+        "two": "Sonia Gandhi",
+        "third": "Pratibha Patil",
+        "fourth": "Mamata Banerjee",
+        "right": "Indira Gandhi"
+      },
+      {
+        "question": "The Maurya Empire was founded in which century BCE?",
+        "one": "6th century BCE",
+        "two": "5th century BCE",
+        "third": "4th century BCE",
+        "fourth": "3rd century BCE",
+        "right": "4th century BCE"
+      },
+      {
+        "question": "Who was the first Governor-General of Bengal?",
+        "one": "Robert Clive",
+        "two": "Warren Hastings",
+        "third": "Lord Cornwallis",
+        "fourth": "Dalhousie",
+        "right": "Warren Hastings"
+      },
+      {
+        "question": "The Konark Sun Temple is located in which state of India?",
+        "one": "Odisha",
+        "two": "Gujarat",
+        "third": "Rajasthan",
+        "fourth": "Madhya Pradesh",
+        "right": "Odisha"
+      },
+      {
+        "question": "Who was the last Viceroy of India?",
+        "one": "Lord Mountbatten",
+        "two": "Lord Curzon",
+        "third": "Lord Canning",
+        "fourth": "Lord Dalhousie",
+        "right": "Lord Mountbatten"
+      },
+      {
+        "question": "The Rashtrakuta dynasty was associated with which region of India?",
+        "one": "North India",
+        "two": "South India",
+        "third": "East India",
+        "fourth": "West India",
+        "right": "South India"
+      },
+      {
+        "question": "Who was the first Emperor of the Maurya Empire?",
+        "one": "Chandragupta Maurya",
+        "two": "Ashoka the Great",
+        "third": "Samudragupta",
+        "fourth": "Bindusara",
+        "right": "Chandragupta Maurya"
+      },
+      {
+        "question": "The Qutub Minar in Delhi was built by which ruler?",
+        "one": "Akbar",
+        "two": "Shah Jahan",
+        "third": "Aurangzeb",
+        "fourth": "Qutb-ud-din Aibak",
+        "right": "Qutb-ud-din Aibak"
+      },
+      {
+        "question": "Who was the last Governor-General of India?",
+        "one": "Lord Mountbatten",
+        "two": "Lord Curzon",
+        "third": "Lord Canning",
+        "fourth": "Lord Dalhousie",
+        "right": "Lord Mountbatten"
+      },
+      {
+        "question": "The Satavahana dynasty was associated with which region of India?",
+        "one": "North India",
+        "two": "South India",
+        "third": "East India",
+        "fourth": "West India",
+        "right": "South India"
+      },
+      {
+        "question": "Who was the first ruler of the Mughal Empire?",
+        "one": "Babur",
+        "two": "Humayun",
+        "third": "Akbar",
+        "fourth": "Jahangir",
+        "right": "Babur"
+      },
+      {
+        "question": "The Victoria Memorial in Kolkata was built in the memory of which queen?",
+        "one": "Queen Elizabeth II",
+        "two": "Queen Victoria",
+        "third": "Queen Anne",
+        "fourth": "Queen Mary",
+        "right": "Queen Victoria"
+      },
+      {
+        "question": "Who was the first Governor-General of India?",
+        "one": "Robert Clive",
+        "two": "Warren Hastings",
+        "third": "Lord Cornwallis",
+        "fourth": "Dalhousie",
+        "right": "Warren Hastings"
+      },
+      {
+        "question": "The Pallava dynasty was associated with which region of India?",
+        "one": "North India",
+        "two": "South India",
+        "third": "East India",
+        "fourth": "West India",
+        "right": "South India"
+      },
+      {
+        "question": "Who was the first ruler of the Gupta Empire?",
+        "one": "Chandragupta Maurya",
+        "two": "Samudragupta",
+        "third": "Chandragupta I",
+        "fourth": "Kumaragupta",
+        "right": "Chandragupta I"
+      },
+      {
+        "question": "The Gateway of India in Mumbai was built to commemorate the visit of which British monarch?",
+        "one": "Queen Elizabeth II",
+        "two": "Queen Victoria",
+        "third": "King George V",
+        "fourth": "King Edward VII",
+        "right": "King George V"
+      },
+      {
+        "question": "Who was the first President of the Indian National Congress?",
+        "one": "Mahatma Gandhi",
+        "two": "Jawaharlal Nehru",
+        "third": "Bal Gangadhar Tilak",
+        "fourth": "Dadabhai Naoroji",
+        "right": "Dadabhai Naoroji"
+      },
+      {
+        "question": "The Maratha Empire was founded by which ruler?",
+        "one": "Shivaji",
+        "two": "Baji Rao I",
+        "third": "Balaji Vishwanath",
+        "fourth": "Madhavrao I",
+        "right": "Shivaji"
+      },
+      {
+        "question": "Who was the first ruler of the Maurya Empire?",
+        "one": "Chandragupta Maurya",
+        "two": "Ashoka the Great",
+        "third": "Samudragupta",
+        "fourth": "Bindusara",
+        "right": "Chandragupta Maurya"
+      },
+      {
+        "question": "The Sanchi Stupa is located in which state of India?",
+        "one": "Madhya Pradesh",
+        "two": "Uttar Pradesh",
+        "third": "Bihar",
+        "fourth": "Rajasthan",
+        "right": "Madhya Pradesh"
+      },
+      {
+        "question": "Who was the first Governor-General of India after independence?",
+        "one": "Lord Mountbatten",
+        "two": "Lord Curzon",
+        "third": "Lord Canning",
+        "fourth": "Lord Dalhousie",
+        "right": "Lord Mountbatten"
+      },
+      {
+        "question": "The Vijayanagara Empire was founded by which ruler?",
+        "one": "Krishnadevaraya",
+        "two": "Harihara I",
+        "third": "Bukka Raya I",
+        "fourth": "Devaraya II",
+        "right": "Harihara I"
+      },
+      {
+        "question": "Who was the last ruler of the Maurya Empire?",
+        "one": "Chandragupta Maurya",
+        "two": "Ashoka the Great",
+        "third": "Samudragupta",
+        "fourth": "Bindusara",
+        "right": "Ashoka the Great"
+      },
+      {
+        "question": "The Brihadeeswarar Temple is located in which state of India?",
+        "one": "Tamil Nadu",
+        "two": "Karnataka",
+        "third": "Andhra Pradesh",
+        "fourth": "Kerala",
+        "right": "Tamil Nadu"
+      },
+      {
+        "question": "Who was the first ruler of the Delhi Sultanate?",
+        "one": "Qutb-ud-din Aibak",
+        "two": "Iltutmish",
+        "third": "Razia Sultana",
+        "fourth": "Balban",
+        "right": "Qutb-ud-din Aibak"
+      },
+      {
+        "question": "The Maurya Empire was succeeded by which dynasty?",
+        "one": "Gupta Empire",
+        "two": "Satavahana Empire",
+        "third": "Kushan Empire",
+        "fourth": "Pallava Empire",
+        "right": "Gupta Empire"
+      },
+      {
+        "question": "Who was the first female President of India?",
+        "one": "Indira Gandhi",
+        "two": "Sonia Gandhi",
+        "third": "Pratibha Patil",
+        "fourth": "Mamata Banerjee",
+        "right": "Pratibha Patil"
+      },
+      {
+        "question": "What is the ancient name of Kolkata?",
+        "one": "Calcutta",
+        "two": "Chennai",
+        "third": "Mumbai",
+        "fourth": "Delhi",
+        "right": "Calcutta"
+      },
+      {
+        "question": "Who founded Kolkata?",
+        "one": "Robert Clive",
+        "two": "Warren Hastings",
+        "third": "Job Charnock",
+        "fourth": "William Hickey",
+        "right": "Job Charnock"
+      },
+      {
+        "question": "In which year did the British East India Company establish a trading post in Kolkata?",
+        "one": "1632",
+        "two": "1690",
+        "third": "1757",
+        "fourth": "1772",
+        "right": "1690"
+      },
+      {
+        "question": "Which European power ruled Kolkata before the British?",
+        "one": "Portugal",
+        "two": "France",
+        "third": "Netherlands",
+        "fourth": "Denmark",
+        "right": "Portugal"
+      },
+      {
+        "question": "Which river does Kolkata lie on the bank of?",
+        "one": "Ganges",
+        "two": "Brahmaputra",
+        "third": "Hooghly",
+        "fourth": "Mahanadi",
+        "right": "Hooghly"
+      },
+      {
+        "question": "What was the original purpose of Kolkata's founding?",
+        "one": "Trade",
+        "two": "Agriculture",
+        "third": "Religious center",
+        "fourth": "Military outpost",
+        "right": "Trade"
+      },
+      {
+        "question": "In which year did Kolkata become the capital of British India?",
+        "one": "1698",
+        "two": "1757",
+        "third": "1772",
+        "fourth": "1858",
+        "right": "1772"
+      },
+      {
+        "question": "Which famous battle took place near Kolkata in 1757?",
+        "one": "Battle of Plassey",
+        "two": "Battle of Buxar",
+        "third": "Battle of Wandiwash",
+        "fourth": "Battle of Panipat",
+        "right": "Battle of Plassey"
+      },
+      {
+        "question": "Who was the first Governor-General of Bengal?",
+        "one": "Warren Hastings",
+        "two": "Robert Clive",
+        "third": "William Bentinck",
+        "fourth": "Charles Cornwallis",
+        "right": "Warren Hastings"
+      },
+      {
+        "question": "Which social reformer is known as the 'Maker of Modern Kolkata'?",
+        "one": "Raja Ram Mohan Roy",
+        "two": "Ishwar Chandra Vidyasagar",
+        "third": "Swami Vivekananda",
+        "fourth": "Rabindranath Tagore",
+        "right": "Ishwar Chandra Vidyasagar"
+      },
+      {
+        "question": "Which event led to the decline of Kolkata's importance as a port city?",
+        "one": "Partition of Bengal",
+        "two": "Indian Independence",
+        "third": "World War II",
+        "fourth": "Bangladesh Liberation War",
+        "right": "Partition of Bengal"
+      },
+      {
+        "question": "What is the significance of the Howrah Bridge in Kolkata?",
+        "one": "It is a UNESCO World Heritage Site",
+        "two": "It is the oldest cantilever bridge in India",
+        "third": "It is the busiest bridge in the world",
+        "fourth": "It is an engineering marvel",
+        "right": "It is the busiest bridge in the world"
+      },
+      {
+        "question": "Which famous cricket stadium is located in Kolkata?",
+        "one": "Wankhede Stadium",
+        "two": "Eden Gardens",
+        "third": "M. Chinnaswamy Stadium",
+        "fourth": "Rajiv Gandhi International Cricket Stadium",
+        "right": "Eden Gardens"
+      },
+      {
+        "question": "Which Nobel laureate was born in Kolkata?",
+        "one": "Mother Teresa",
+        "two": "Rabindranath Tagore",
+        "third": "C. V. Raman",
+        "fourth": "Amartya Sen",
+        "right": "Rabindranath Tagore"
+      },
+      {
+        "question": "Which festival is celebrated with grandeur in Kolkata?",
+        "one": "Durga Puja",
+        "two": "Diwali",
+        "third": "Eid",
+        "fourth": "Christmas",
+        "right": "Durga Puja"
+      },
+      {
+        "question": "Which famous writer is associated with Kolkata?",
+        "one": "R. K. Narayan",
+        "two": "Ruskin Bond",
+        "third": "Sarojini Naidu",
+        "fourth": "Bankim Chandra Chattopadhyay",
+        "right": "Bankim Chandra Chattopadhyay"
+      },
+      {
+        "question": "Which metro system is the oldest in India?",
+        "one": "Delhi Metro",
+        "two": "Mumbai Metro",
+        "third": "Chennai Metro",
+        "fourth": "Kolkata Metro",
+        "right": "Kolkata Metro"
+      },
+      {
+        "question": "Which iconic yellow taxis are found in Kolkata?",
+        "one": "Fiat Padmini",
+        "two": "Ambassador",
+        "third": "Maruti Suzuki Alto",
+        "fourth": "Tata Indica",
+        "right": "Ambassador"
+      },
+      {
+        "question": "Which famous movie was set in Kolkata?",
+        "one": "Slumdog Millionaire",
+        "two": "Lagaan",
+        "third": "Piku",
+        "fourth": "Dil Se",
+        "right": "Piku"
+      }
+  ]
